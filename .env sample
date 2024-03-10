@@ -1,0 +1,4 @@
+TOKEN="token"
+SPOTIFY_CLIENT_ID="client_id"
+SPOTIFY_CLIENT_SECRET="client_secret"
+ALLOWED_USERS_IDS="1,2,3"
